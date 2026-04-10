@@ -1,7 +1,7 @@
-#Release notes 
+# Release notes 
 
 """
-##Parser & Injektor 5000
+## Parser & Injektor 5000
 ----------------------------------------
 
 Release szám: 0.0.1
@@ -9,8 +9,8 @@ Release szám: 0.0.1
 
 Release tartalma:
 
-*Flask init 
-*Mappa struktúra init 
+* Flask init 
+* Mappa struktúra init 
 
 ----------------------------------------
 """

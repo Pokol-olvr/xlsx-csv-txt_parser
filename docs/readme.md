@@ -1,27 +1,27 @@
-#Data parser és Inserter 5000 ultramega kígyó XXL
+# Data parser és Inserter 5000 ultramega kígyó XXL
 
 Az alábbi app egy python alapú parser ami különböző kiterjesztésű file-okat lefordítja SQL query-re és betölti egy Postgres adatbázisba.  
 
-##Támogatott kiterjesztészek:
+## Támogatott kiterjesztészek:
 
 * .xlsx
 * .csv
 * .json
 * .txt
 
-#Elvárt folyamat:
+# Elvárt folyamat:
 
 - Felhasználó belép és autentikál a webfelületre
 - Létrehozza az adatbáziskapcsolatot 
 - A kezelőfelületen pedig kiválasztja e betöltendő file-t és elindítja a folyamatot
 
-#Tech stack:
+# Tech stack:
 
 - Python
 - HTML/CSS
 - Postrgres
 
-#Dependencies:
+# Dependencies:
 
 > Python 3.13.12
 > Flaskcharset-normalizer 3.4.7
